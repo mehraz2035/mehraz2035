@@ -38,12 +38,11 @@ I'm a front-end web developer. My proficiency extends to modern tools and framew
 
 1. **Car brand shop - Car.com**
    - A car selling  management Website.
-   - [Check it out](https://quarrelsome-balls.surge.sh)
+   - [Visit site](https://quarrelsome-balls.surge.sh)
 
-2. **BookWaves - Online Library**
-   - An online library platform with features for browsing, borrowing, and returning books.
-   - Provides an efficient book management system for organizing your literary collection.
-   - [Explore the library](https://bookwaves-c18d0.web.app/)
+2. **Community food sharing website - Share Food**
+   - Wedding survivor food donation website.
+   - [Visit site](https://puffy-apples.surge.sh)
 
 3. **LuminaryLabs - E-commerce Website**
    - A dynamic e-commerce platform where administrators can add, delete, and update products.
