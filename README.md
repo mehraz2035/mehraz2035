@@ -65,7 +65,7 @@ Visit each application to see more details.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehraz2035&show_icons=true&theme=radical" height="200" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehraz2035&show_icons=true&theme=radical"  alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehraz2035&layout=donut&theme=radical" height="200" width="48%" alt="Top Langs" />
 </p>
 
