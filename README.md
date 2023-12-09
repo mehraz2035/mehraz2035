@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://i.ibb.co/swqFfzd/Blue-and-White-Modern-Business-Facebook-Cover-1.png">
+</p>
+
 ##
 <h3>Mehraz Hossain</h3>
+
+
 
 I'm a front-end web developer based in Dhaka, Bangladesh, specializing in HTML, CSS, and JavaScript. My proficiency extends to modern tools and frameworks such as React.js, and I leverage the speed of Vite for efficient development. With a keen eye for design and utilizing the Tailwind CSS framework, I focus on creating responsive and visually appealing user interfaces. My commitment to staying current with industry trends ensures that I deliver sleek and effective web applications that meet the demands of today's users.
 
