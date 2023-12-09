@@ -38,7 +38,7 @@ I'm a front-end web developer. My proficiency extends to modern tools and framew
 
 1. **Car brand shop - Car.com**
    - A car selling  management Website.
-   - [Check it out]([https://quarrelsome-balls.surge.sh})
+   - [Check it out](https://quarrelsome-balls.surge.sh)
 
 2. **BookWaves - Online Library**
    - An online library platform with features for browsing, borrowing, and returning books.
