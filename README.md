@@ -51,7 +51,7 @@ I'm a front-end web developer. My proficiency extends to modern tools and framew
 Visit each application to see more details.
 
 ## 🌐 Connect with Me
-<div align="left">
+<div align="center">
   
   <a href="https://www.linkedin.com/in/md-mehraz-53a3362a4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
