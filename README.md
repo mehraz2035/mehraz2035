@@ -33,6 +33,10 @@ I'm a front-end web developer. My proficiency extends to modern tools and framew
 
 </p>
 
+###
+
+<h3 align="left">My Recent Projects</h3>
+
 ## 🌐 Connect with Me
 <div align="left">
   <a href="" target="_blank">
