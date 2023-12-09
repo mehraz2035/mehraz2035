@@ -34,8 +34,23 @@ I'm a front-end web developer. My proficiency extends to modern tools and framew
 </p>
 
 ###
-
 <h3 align="left">My Recent Projects</h3>
+
+1. **Car brand shop - Car.com**
+   - A car selling  management Website.
+   - [Check it out]([https://quarrelsome-balls.surge.sh})
+
+2. **BookWaves - Online Library**
+   - An online library platform with features for browsing, borrowing, and returning books.
+   - Provides an efficient book management system for organizing your literary collection.
+   - [Explore the library](https://bookwaves-c18d0.web.app/)
+
+3. **LuminaryLabs - E-commerce Website**
+   - A dynamic e-commerce platform where administrators can add, delete, and update products.
+   - Users can seamlessly browse and purchase products.
+   - [Shop now](https://timeless-event.web.app/)
+
+Feel free to click on the project links to explore each application in more detail.
 
 ## 🌐 Connect with Me
 <div align="left">
