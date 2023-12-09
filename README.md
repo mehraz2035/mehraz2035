@@ -69,6 +69,8 @@ Visit each application to see more details.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehraz2035&layout=donut&theme=radical" height="200" width="48%" alt="Top Langs" />
 </p>
 
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mehraz2035&layout=compact&theme=dark&count_private=true" alt="Wakatime Stats">
+
 
 
 
