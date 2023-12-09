@@ -38,18 +38,17 @@ I'm a front-end web developer. My proficiency extends to modern tools and framew
 
 1. **Car brand shop - Car.com**
    - A car selling  management Website.
-   - [Visit site](https://quarrelsome-balls.surge.sh)
+   - [Visit now](https://quarrelsome-balls.surge.sh)
 
 2. **Community food sharing website - Share Food**
    - Wedding survivor food donation website.
-   - [Visit site](https://puffy-apples.surge.sh)
+   - [Visit now](https://puffy-apples.surge.sh)
 
-3. **LuminaryLabs - E-commerce Website**
-   - A dynamic e-commerce platform where administrators can add, delete, and update products.
-   - Users can seamlessly browse and purchase products.
-   - [Shop now](https://timeless-event.web.app/)
+3. **Matrimony website - Ghotok online**
+   - An online platform where people can choose their life partner.
+   - [Visit now](https://online-ghotok.web.app/)
 
-Feel free to click on the project links to explore each application in more detail.
+Visit each application to see more details.
 
 ## 🌐 Connect with Me
 <div align="left">
