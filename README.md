@@ -65,7 +65,7 @@ Visit each application to see more details.
 ---
 | GitHub Streak | GitHub Stats |
 | --- | --- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehraz2035&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly) | ![Rifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehraz2035&show_icons=true&theme=radical) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehraz2035&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehraz2035&show_icons=true&theme=radical) |
 
 
 
